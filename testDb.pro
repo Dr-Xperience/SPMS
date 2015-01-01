@@ -1,5 +1,5 @@
 #****************************************************************************
-#    SPMS : An PC based application similar its web app
+#    SPMS : A PC based application similar its web app
 #    Copyright (C) 2015  SKRM <www.skrm.org>
 
 #    This program is free software: you can redistribute it and/or modify
