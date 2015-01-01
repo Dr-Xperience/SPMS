@@ -21,6 +21,7 @@ void LoginDialog::pushButton_Login_clicked()
 //    {
         QMessageBox::information(NULL,"Warning","Path : Already Exist");
 //    }
+        this->close();
 }
 
 void LoginDialog::pushButton_Cancel_clicked()
